@@ -23,6 +23,19 @@ The cost for implementing a project involving quiz application is minimal none. 
 ### Defining Our System
 The user will be asked questions incessantly in the second and more facinating round of this quiz game in C, and for each correct answers supplied, they will be awarded some amount. There are four alternatives for each question: A, B, C, and D. Because there is no negative indications, the user's accrued cash money will not be removed for incorrect responses.
 ## SWOT ANALYSIS
+### Strength:
+* Strong and active current market
+* Very active in the gaming community
+* Colloborating with consumers to create new products 
+### Weakness:
+* Little advertising done outside gaming community
+* Consumer outside of gaming sphere have little interaction with Racer products
+### Opportunities:
+* Expand consumer market by advertising on TV, the internet, direct mail and though interactive feeds
+* Sell product in stores such as best buy
+### Threats:
+* Larger companies with broader reach may enter market
+* May not be accepted by general consumer
 ## 4W's and 1'H
 ### Who:
 * Developers and Software Engineers
