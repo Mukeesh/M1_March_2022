@@ -1,4 +1,14 @@
- #include <stdio.h>
+/**
+ * @file Server.c
+ * @author Mukeesh K (mmuki651@gmail.com)
+ * @brief This is the main program where the project is run
+ * @version 0.1
+ * @date 2022-03-26
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
+#include <stdio.h>
 #include <string.h>
 #include <pthread.h>
 #include <stdlib.h>
@@ -36,7 +46,12 @@ pthread_t tid[5];		// Max 50 simultaneous games (with infinite players each)
 
 
 
-
+/* Start of the application */
+/**
+ * @brief Main program
+ * @return int
+ * @return int 
+ */
 int main(){
 	int i, j;
 	int current_game = 0;
