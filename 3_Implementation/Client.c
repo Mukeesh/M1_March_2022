@@ -1,3 +1,13 @@
+/**
+ * @file Client.c
+ * @author Mukeesh K (mmuki651@gmail.com)
+ * @brief This is the main program where the project is run
+ * @version 0.1
+ * @date 2022-03-26
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
 #include <stdio.h>
 #include <string.h>
 #include <pthread.h>
